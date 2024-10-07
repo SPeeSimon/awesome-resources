@@ -30,4 +30,3 @@
 # Awesome UI
 - https://github.com/JesseTG/awesome-qt
 - https://github.com/mikalv/awesome-qt-qml
-- https://github.com/kmkolasinski/AwesomeBump
